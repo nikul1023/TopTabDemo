@@ -40,6 +40,8 @@ export const presets = {
    * A smaller piece of secondard information.
    */
   secondary: { ...BASE, fontSize: 9, color: color.dim } as TextStyle,
+
+  list: { ...BASE, fontSize: 35, color: color.storybookDarkBg } as TextStyle
 }
 
 /**

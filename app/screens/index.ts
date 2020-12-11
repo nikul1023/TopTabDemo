@@ -1,2 +1,5 @@
 export * from "./welcome-screen/welcome-screen"
 export * from "./demo-screen/demo-screen"
+export * from "./app-screen/app-screen"
+export * from "./home-screen/home-screen"
+export * from "./details-screen/details-screen"
